@@ -130,6 +130,7 @@ const Showcase = () => {
             capabilities of Bit Together. We leverage the latest advancements to
             drive transformative change in the digital landscape.
             <br />
+            <br />
             <strong>Key Benefits</strong>
             <br />
             <strong>Access to Cutting-Edge Technology:</strong> Stay ahead with
@@ -194,9 +195,10 @@ const Showcase = () => {
             leader, or a strategic ally, we invite you to explore the
             opportunities that arise when visionary minds come together. To
             express interest in partnering with Bit, please get in touch with
-            our Partnership Team at partnerships@bitsystems.com. Together, let's
-            shape the future of technology and create a legacy of innovation.
-            Welcome to the Bit Partners Community.
+            our Partnership Team at{' '}
+            <a href="mailto:sales@bitwebsvc.net">sales@bitwebsvc.net</a>.
+            Together, let's shape the future of technology and create a legacy
+            of innovation. Welcome to the Bit Partners Community.
           </p>
         </div>
       </Section>

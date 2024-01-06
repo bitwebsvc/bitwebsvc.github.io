@@ -98,7 +98,7 @@ const Showcase = () => {
       <Section background="dark">
         <div className="sectionContainer headerContainer">
           <h1>
-            Our Company - <span>Empowering Tomorrow, Today!</span>
+            Our Company - <span>About Us</span>
           </h1>
           <p>
             Welcome to Bit. At Bit, we are architects of innovation, pioneers of

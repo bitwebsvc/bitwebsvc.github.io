@@ -125,17 +125,18 @@ const Showcase = () => {
         <div className="showcaseSection">
           <h2>Flower</h2>
           <p className="showcaseSectionDescription">
-            
-            <a
-            className="formButton"
-            href="flower">Flower</a> is an all-encompassing solution designed to streamline and help expedite many aspects of software development. Whether it's data modeling, database construction, or application development, the Application Engine transcends being just a platform; it stands as a transformative force in the field.
-          
+            <a className="formButton" href="flower">
+              Flower
+            </a>{' '}
+            is an all-encompassing solution designed to streamline and help
+            expedite many aspects of software development. Whether it's data
+            modeling, database construction, or application development, the
+            Application Engine transcends being just a platform; it stands as a
+            transformative force in the field.
           </p>
         </div>
-    
       </Section>
       <Section>
-        
         <div className="showcaseSection">
           <h2>Why Choose Bit Products?</h2>
           <p className="showcaseSectionDescription">
@@ -156,13 +157,12 @@ const Showcase = () => {
             offer a holistic approach to software development, covering all
             bases.
             <br />
-            <strong>Global Ambitions</strong>While rooted in Canada, our
-            products are crafted with global aspirations and designed to cater
-            to diverse tech ecosystems.
+            <strong>Global Ambitions</strong> While rooted in Canada, our
+            products have global aspirations and designed to cater to diverse
+            tech ecosystems.
             <br />
           </p>
         </div>
-        
       </Section>
       <Section background="dark">
         <div className="sectionContainer footerContainer">

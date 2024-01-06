@@ -82,10 +82,7 @@ function TextColumn({title, text, moreContent}) {
 function HomeCallToAction() {
   return (
     <>
-      <ActionButton
-        type="primary"
-        href={useBaseUrl('products')}
-        target="_self">
+      <ActionButton type="primary" href={useBaseUrl('products')} target="_self">
         View Products
       </ActionButton>
       <ActionButton
@@ -235,11 +232,12 @@ function HeaderHero() {
       </div> */}
       <TwoColumns
         reverse
-  
         columnTwo={
           <>
             <h1 className="title">Flower</h1>
-            <p className="tagline">A new product from Bit redefining Software Development.</p>
+            <p className="tagline">
+              A new product from Bit redefining Software Development.
+            </p>
             <div className="buttons">
               <HomeCallToAction />
             </div>
@@ -255,13 +253,8 @@ function NativeApps() {
     <Section className="NativeApps" background="light">
       <TwoColumns
         reverse
-        columnOne={
-          <TextColumn
-            title="Innovation"
-            text={textContent.intro}
-          />
-        }
-        columnTwo={<img alt="" src={useBaseUrl('img/homepage/phones.png')} />}
+        columnOne={<TextColumn title="Innovation" text={textContent.intro} />}
+        columnTwo={<div>&nbsp;</div>}
       />
     </Section>
   );
@@ -547,16 +540,15 @@ const Index = () => {
           property="og:title"
           content="Reshaping the standards of excellence in software development"
         />
-       
       </Head>
       <HeaderHero />
       <NativeApps />
       <NativeCode />
-    {/* 
+      {/*
        */}
       {/* <NativeDevelopment /> */}
       {/* <CrossPlatform /> */}
-     
+
       {/* 
        <FastRefresh />
       <VideoContent />
