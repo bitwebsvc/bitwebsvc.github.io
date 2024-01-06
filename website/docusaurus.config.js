@@ -26,8 +26,8 @@ const isDeployPreview = process.env.PREVIEW_DEPLOY === 'true';
 module.exports = {
   title: 'Bit',
   tagline: 'Flower Application Engine - Redefining Software Development',
-  organizationName: 'bit',
-  projectName: 'bit',
+  organizationName: 'bitwebsvc',
+  projectName: 'bitwebsvc.github.io',
   url: 'https://www.bitwebsvc.net',
   baseUrl: '/',
   clientModules: [
@@ -229,11 +229,11 @@ module.exports = {
         ],
       },
       navbar: {
-        title: '',
-        logo: {
-          src: 'img/header_logo.png',
-          alt: 'Bit',
-        },
+        title: 'Bit',
+        // logo: {
+        //   src: 'img/header_logo.png',
+        //   alt: 'Bit',
+        // },
         style: 'dark',
         items: [
           // {
@@ -339,16 +339,16 @@ module.exports = {
               {
                 label: 'Flower',
                 to: 'flower',
-              }
+              },
             ],
           },
-            {
+          {
             title: 'Company',
             items: [
               {
                 label: 'About',
                 to: 'company',
-              }
+              },
             ],
           },
           // {
@@ -417,7 +417,7 @@ module.exports = {
           // {
           //   title: 'Explore More',
           //   items: [
-              
+
           //     {
           //       label: 'Privacy Policy',
           //       href: 'privacy',
