@@ -234,9 +234,12 @@ function HeaderHero() {
         reverse
         columnTwo={
           <>
-            <h1 className="title">Flower</h1>
+            <h1 className="title">
+              <a href="flower">Flower</a>
+            </h1>
             <p className="tagline">
-              A new product from Bit redefining Software Development.
+              A <a href="flower">new product</a> from Bit redefining Software
+              Development.
             </p>
             <div className="buttons">
               <HomeCallToAction />

@@ -124,10 +124,10 @@ const Showcase = () => {
         <div className="showcaseSection">
           <h2> Mission & Vision</h2>
           <p className="showcaseSectionDescription">
-            <strong>Vision:</strong> Empowering businesses and individuals
+            <strong>Vision </strong> - Empowering businesses and individuals
             through groundbreaking technology.
             <br />
-            <strong>Mission:</strong> Reshaping the standards of excellence in
+            <strong>Mission</strong> - Reshaping the standards of excellence in
             software development, providing innovative tools that inspire
             creativity, enhance efficiency, and drive operational excellence.
           </p>
@@ -135,28 +135,28 @@ const Showcase = () => {
         <div className="showcaseSection">
           <h2> What Sets Us Apart</h2>
           <p className="showcaseSectionDescription">
-            <strong>Innovation:</strong> Bit is an innovative company that
+            <strong>Innovation</strong> - Bit is an innovative company that
             doesn't just adapt to changes in the Internet; we strive to push the
             boundaries of what's possible. Our solutions are designed to be more
             than just tools - they are powerful catalysts for change. We are
             dedicated to driving progress and delivering cutting-edge solutions
             to our clients.
             <br />
-            <strong>User-Centricity:</strong> We write Every line of code and
+            <strong>User-Centricity</strong> - We write Every line of code and
             design features with the end user in mind. Accessibility and
             seamless experiences are not just goals but our commitment.
             <br />
-            <strong>Adaptability:</strong> Adaptability is our forte in a world
+            <strong>Adaptability</strong> - Adaptability is our forte in a world
             that evolves by the second. We stay agile to meet the ever-evolving
             demands of our clients and the tech industry.
             <br />
-            <strong>Excellence:</strong> Excellence is not just a goal; it's our
-            standard. From product development to customer service, we deliver
-            nothing short of the best.
+            <strong>Excellence</strong> - Excellence is not just a goal; it's
+            our standard. From product development to customer service, we
+            deliver nothing short of the best.
           </p>
         </div>
         <div className="showcaseSection">
-          <h2> Our Flagship- Application Engine Flower</h2>
+          <h2> Our Flagship Product - Flower</h2>
           <p className="showcaseSectionDescription">
             At the heart of our offerings lies the Application Engine — more
             than a platform; it's a revolution. From simplifying database

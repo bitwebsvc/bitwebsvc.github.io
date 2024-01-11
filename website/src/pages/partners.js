@@ -133,13 +133,13 @@ const Showcase = () => {
             <br />
             <strong>Key Benefits</strong>
             <br />
-            <strong>Access to Cutting-Edge Technology:</strong> Stay ahead with
+            <strong>Access to Cutting-Edge Technology</strong> - Stay ahead with
             the latest tools and technologies.
             <br />
-            <strong>Collaborative Development:</strong> Co-create solutions that
-            redefine industry standards.
+            <strong>Collaborative Development</strong> - Co-create solutions
+            that redefine industry standards.
             <br />
-            <strong>Shared Resources:</strong> Pool resources for enhanced
+            <strong>Shared Resources</strong> - Pool resources for enhanced
             research and development.
           </p>
         </div>
@@ -155,13 +155,13 @@ const Showcase = () => {
             <br />
             <strong>Key Benefits</strong>
             <br />
-            <strong>Vertical-Specific Solutions:</strong> Address
+            <strong>Vertical-Specific Solutions</strong> - Address
             industry-specific challenges with precision.
             <br />
-            <strong>Market Insights: </strong> Gain valuable insights into
+            <strong>Market Insights </strong> - Gain valuable insights into
             sector trends and emerging technologies.
             <br />
-            <strong>Enhanced Networking:</strong> Build connections within
+            <strong>Enhanced Networking</strong> - Build connections within
             specific industries for mutual growth.
           </p>
         </div>
@@ -177,13 +177,13 @@ const Showcase = () => {
             <br />
             <strong>Key Benefits</strong>
             <br />
-            <strong>Business Development: </strong> Explore new growth and
+            <strong>Business Development </strong> - Explore new growth and
             market expansion avenues.
             <br />
-            <strong>Mutual Support:</strong> Foster a culture of support and
+            <strong>Mutual Support </strong> - Foster a culture of support and
             shared resources.
             <br />
-            <strong>Joint Ventures: </strong> Collaborate on projects that
+            <strong>Joint Ventures </strong> - Collaborate on projects that
             redefine industry benchmarks.
           </p>
         </div>
