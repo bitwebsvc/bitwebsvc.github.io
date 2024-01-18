@@ -21,7 +21,7 @@ import {setupHeaderAnimations} from './animations/_headerAnimation';
 
 const textContent = {
   intro: `
-In the dynamic realm of software development, where efficiency and innovation are paramount, Flower emerges as a transformative force—a powerful Application Engine designed to revolutionize every facet of the development lifecycle. 
+In the dynamic realm of software product development, where efficiency and innovation are paramount, Flower emerges as a transformative force—a powerful Application Engine designed to revolutionize every facet of the development lifecycle. 
   `,
   nativeCode: `
 More than just a platform, Flower is a comprehensive toolkit that seamlessly integrates data modeling, database creation, application development, and quality engineering, positioning itself as the ultimate solution for developers seeking streamlined processes and groundbreaking outcomes.
@@ -239,7 +239,7 @@ function HeaderHero() {
             </h1>
             <p className="tagline">
               A <a href="flower">new product</a> from Bit redefining Software
-              Development.
+              Product Development.
             </p>
             <div className="buttons">
               <HomeCallToAction />
@@ -535,13 +535,13 @@ const Index = () => {
   useHomePageAnimations();
   return (
     <Layout
-      description="Reshaping the standards of excellence in software development"
+      description="Reshaping the standards of excellence in software product development"
       wrapperClassName="homepage">
       <Head>
         <title>Bit</title>
         <meta
           property="og:title"
-          content="Reshaping the standards of excellence in software development"
+          content="Reshaping the standards of excellence in software product development"
         />
       </Head>
       <HeaderHero />

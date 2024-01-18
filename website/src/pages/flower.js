@@ -100,151 +100,224 @@ const Showcase = () => {
       <Section background="dark">
         <div className="sectionContainer headerContainer">
           <h1>
-            Flower - <span>Redefining Software Development</span>
+            Flower - <span>Redefining Software Product Development</span>
           </h1>
           <p>
             Flower, is a comprehensive solution that simplifies and accelerates
-            every facet of software development. From data modeling, database
-            building to application development, the Application Engine is not just a
-            platform; it's a game-changer.
+            every facet of software product development. From data modeling,
+            database building to application development, the Application Engine
+            is not just a platform; it's a game-changer.
           </p>
         </div>
       </Section>
       <Section>
         <div className="showcaseSection">
-          <h2>Flower Application Engine - Redefining Software Development</h2>
+          <h2>
+            Flower Application Engine - Redefining Software Product Development
+          </h2>
           <p className="showcaseSectionDescription">
             <strong>Overview</strong>
             <br />
             <br />
-            Flower is a powerful Application Engine designed to streamline and expedite various aspects of software development. Covering everything from data modeling and database creation to application development and quality engineering, Flower is more than just a platform—it represents a transformative force in the field. By providing comprehensive tools and features, Flower aims to simplify the entire software development process, making it a game-changer for developers seeking efficiency and innovation.
+            Flower is a powerful Application Engine designed to streamline and
+            expedite various aspects of software product development. Covering
+            everything from data modeling and database creation to application
+            development and quality engineering, Flower is more than just a
+            platform—it represents a transformative force in the field. By
+            providing comprehensive tools and features, Flower aims to simplify
+            the entire software product development process, making it a
+            game-changer for developers seeking efficiency and innovation.
             <br />
             <br />
             <strong>Key Features</strong>
             <br />
             <br />
-            <strong>Marketplace</strong> - A community for application
-            distribution
+            <strong>
+              <a href="#marketplace">Marketplace</a>
+            </strong>{' '}
+            - A community for application distribution
             <br />
-            <strong>Data Modeler</strong> - Transform business reality through
-            structure, relationships, and constraints of data in a system for
-            effective model creation.
+            <strong>
+              <a href="#datamodeler">Data Modeler</a>
+            </strong>{' '}
+            - Transform business reality through structure, relationships, and
+            constraints of data in a system for effective model creation.
             <br />
-            <strong>Data Store</strong> - Simplify and accelerate data
-            store (database, NoSQL) creation for a solid foundation.
+            <strong>
+              <a href="#datastore">Data Store</a>
+            </strong>{' '}
+            - Simplify and accelerate data store (database, NoSQL) creation for
+            a solid foundation.
             <br />
-            <strong>Application Designer</strong> - Develop applications
-            effortlessly with pre-built components.
+            <strong>
+              <a href="#interface">Interface Designer</a>
+            </strong>{' '}
+            - Develop application interfaces effortlessly with drag and drop
+            functionality, pre-built components and with integration of bring
+            your own code/3rd party marketplace controls.
             <br />
-         
-            <strong>Automation</strong> - Streamline repetitive tasks, freeing up
+            {/* <strong><a href="#automation">Automation</strong> - Streamline repetitive tasks, freeing up
             time for strategic endeavors.
+            <br /> */}
+            <strong>
+              <a href="#qe">Quality Engineering</a>
+            </strong>{' '}
+            - End to end quality engineering test plans, test cases with
+            automated testing over application features.
             <br />
-            <strong>Quality Engineering</strong> - End to end quality engineering test plans, test cases with automated testing over
-            application features.
+            <strong>
+              <a href="#admin">Administration and Controls</a>
+            </strong>{' '}
+            - Maintain control over applications with robust administrative
+            features.
             <br />
-            <strong>Administration and Controls</strong> - Maintain control over
-            applications with robust administrative features.
+            <strong>
+              <a href="#atlas">Bit Atlas Assistant</a>
+            </strong>{' '}
+            - Bit Atlas assistant is a companion tool designed to provide Flower
+            users with a quick and easy method to create and manage
+            applications.
+            <br />
           </p>
         </div>
-       
       </Section>
 
-       <Section>
+      <Section>
         <div className="showcaseSection">
+          <a id="marketplace"></a>
           <h2>Marketplace</h2>
           <p className="showcaseSectionDescription">
-           
-            
             <br />
-            Marketplace is a dynamic and inclusive community designed to facilitate the distribution of applications across web based platforms. As a centralized hub, Marketplace serves as a meeting ground for developers, users, and businesses, fostering an environment that encourages innovation, collaboration, and seamless app discovery.
+            Marketplace is a dynamic and inclusive community designed to
+            facilitate the distribution of applications across web based
+            platforms. As a centralized hub, Marketplace serves as a meeting
+            ground for developers, users, and businesses, fostering an
+            environment that encourages innovation, collaboration, and seamless
+            app discovery.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
 
-         <Section>
+      <Section>
         <div className="showcaseSection">
+          <a id="datamodeler"></a>
           <h2>Data Modeler</h2>
           <p className="showcaseSectionDescription">
-           
-            
             <br />
-            In the contemporary landscape of information management, the role of a Data Modeler is pivotal in shaping the way businesses understand, organize, and utilize their data. The essence of a Data Modeler's work lies in transforming the intricate web of business reality into a structured, comprehensible format through the representation of data, relationships, and constraints within a system. This process is essential for the creation of effective data models that serve as the backbone for informed decision-making and streamlined operations.
+            In the contemporary landscape of information management, the role of
+            a Data Modeler is pivotal in shaping the way businesses understand,
+            organize, and utilize their data. The essence of a Data Modeler's
+            work lies in transforming the intricate web of business reality into
+            a structured, comprehensible format through the representation of
+            data, relationships, and constraints within a system. This process
+            is essential for the creation of effective data models that serve as
+            the backbone for informed decision-making and streamlined
+            operations.
             <br />
             <br />
-At its core, the Data Modeler's task is to conceptualize and design data models that accurately mirror the underlying business processes, entities, and their interconnections. This involves deciphering the complexities of an organization's operations and translating them into a visual framework that encapsulates the structural elements, relationships, and constraints governing the flow and organization of data.
+            At its core, the Data Modeler's task is to conceptualize and design
+            data models that accurately mirror the underlying business
+            processes, entities, and their interconnections. This involves
+            deciphering the complexities of an organization's operations and
+            translating them into a visual framework that encapsulates the
+            structural elements, relationships, and constraints governing the
+            flow and organization of data.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
 
-         <Section>
+      <Section>
         <div className="showcaseSection">
+          <a id="datastore"></a>
           <h2>Data Store</h2>
           <p className="showcaseSectionDescription">
-            
             <br />
-            In today's rapidly evolving technological landscape, the efficient management and storage of data are critical components for the success of any application or system. The Data Store platform aims to address this challenge by providing a comprehensive solution that simplifies and accelerates the creation of data stores, including databases and NoSQL solutions, to establish a robust foundation for data management.
+            In today's rapidly evolving technological landscape, the efficient
+            management and storage of data are critical components for the
+            success of any application or system. The Data Store platform aims
+            to address this challenge by providing a comprehensive solution that
+            simplifies and accelerates the creation of data stores, including
+            databases and NoSQL solutions, to establish a robust foundation for
+            data management.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
 
-         <Section>
+      <Section>
         <div className="showcaseSection">
-          <h2>Application Designer</h2>
+          <a id="interface"></a>
+          <h2>Interface Designer</h2>
           <p className="showcaseSectionDescription">
-            
             <br />
-            Application Designer is a powerful tool designed to streamline the process of application development by providing users with pre-built components. With this innovative platform, developers can create visually appealing and user-friendly interfaces effortlessly, reducing the complexity and time traditionally associated with application design.
+            Interface Designer is a powerful tool designed to streamline the
+            process of application development by providing users with pre-built
+            components. With this innovative platform, developers can create
+            visually appealing and user-friendly interfaces effortlessly,
+            reducing the complexity and time traditionally associated with
+            application design.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
-         <Section>
+      <Section>
         <div className="showcaseSection">
+          <a id="qe"></a>
           <h2>Quality Engineering</h2>
           <p className="showcaseSectionDescription">
-            
             <br />
-            Quality Engineering (QE) is a comprehensive approach to ensuring the delivery of high-quality software products throughout the entire development lifecycle. The focus is on detecting and preventing defects at every stage, from design to deployment. End-to-end Quality Engineering specifically emphasizes the creation and execution of robust test plans and test cases, complemented by automated testing, to thoroughly validate application features.
+            Quality Engineering is a comprehensive approach to ensuring the
+            delivery of high-quality software products throughout the entire
+            development lifecycle. The focus is on detecting and preventing
+            defects at every stage, from design to deployment. End-to-end
+            Quality Engineering specifically emphasizes the creation and
+            execution of robust test plans and test cases, complemented by
+            automated testing, to thoroughly validate application features.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
 
-         <Section>
+      <Section>
         <div className="showcaseSection">
+          <a id="admin"></a>
           <h2>Administration and Controls</h2>
           <p className="showcaseSectionDescription">
-            
             <br />
-            In the dynamic landscape of today's digital environment, maintaining control over applications is a critical aspect of ensuring efficiency, security, and compliance within an organization. Robust administrative features play a pivotal role in achieving this control, providing administrators with the tools and capabilities needed to manage, monitor, and optimize application performance. This overview delves into the key elements of administration and controls, highlighting the significance of a comprehensive approach to application management.
+            In the dynamic landscape of today's digital environment, maintaining
+            control over applications is a critical aspect of ensuring
+            efficiency, security, and compliance within an organization. Robust
+            administrative features play a pivotal role in achieving this
+            control, providing administrators with the tools and capabilities
+            needed to manage, monitor, and optimize application performance.
+            This overview delves into the key elements of administration and
+            controls, highlighting the significance of a comprehensive approach
+            to application management.
             <br />
-            
-          
           </p>
         </div>
-       
       </Section>
 
-      
+      <Section>
+        <div className="showcaseSection">
+          <a id="atlas"></a>
+          <h2>Bit Atlas Assistant</h2>
+          <p className="showcaseSectionDescription">
+            <br />
+            Bit Atlas Assistant is a sophisticated companion tool meticulously
+            crafted to enhance the user experience for all products within the
+            Bit ecosystem. Tailored for all Bit product users, this assistant
+            serves as a comprehensive solution for Flower, that is akin to what
+            can be found in a command line utility but with a more user friendly
+            web user interface. Bit Atlas Assistant provides a seamless and
+            efficient method for creating and managing applications.
+            <br />
+          </p>
+        </div>
+      </Section>
+
       <Section background="dark">
         <div className="sectionContainer footerContainer">
           {/* <a

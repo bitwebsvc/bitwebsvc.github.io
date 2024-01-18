@@ -117,8 +117,8 @@ const Showcase = () => {
             Bit emerged from the collective passion of a dynamic team determined
             to break barriers in the tech landscape. Our story is of resilience,
             creativity, and a relentless pursuit of excellence. We started with
-            a dream to make software development an experience that transcends
-            the ordinary.
+            a dream to make software product development an experience that
+            transcends the ordinary.
           </p>
         </div>
         <div className="showcaseSection">
@@ -128,8 +128,9 @@ const Showcase = () => {
             through groundbreaking technology.
             <br />
             <strong>Mission</strong> - Reshaping the standards of excellence in
-            software development, providing innovative tools that inspire
-            creativity, enhance efficiency, and drive operational excellence.
+            software product development, providing innovative tools that
+            inspire creativity, enhance efficiency, and drive operational
+            excellence.
           </p>
         </div>
         <div className="showcaseSection">
@@ -169,7 +170,7 @@ const Showcase = () => {
           <h2> Global Aspirations</h2>
           <p className="showcaseSectionDescription">
             While rooted in Canada, our ambitions know no borders. Bit is on a
-            quest to explore and revolutionize the software development
+            quest to explore and revolutionize the software product development
             landscapes of the USA and Latin America. Geographical boundaries do
             not confine our journey; it's a global exploration of possibilities.
           </p>

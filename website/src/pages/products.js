@@ -129,10 +129,10 @@ const Showcase = () => {
               Flower
             </a>{' '}
             is an all-encompassing solution designed to streamline and help
-            expedite many aspects of software development. Whether it's data
-            modeling, database construction, or application development, the
-            Application Engine transcends being just a platform; it stands as a
-            transformative force in the field.
+            expedite many aspects of software product development. Whether it's
+            data modeling, database construction, or application development,
+            the Application Engine transcends being just a platform; it stands
+            as a transformative force in the field.
           </p>
         </div>
       </Section>
@@ -154,8 +154,8 @@ const Showcase = () => {
             <br />
             <strong>Comprehensive Solutions</strong> From data modeling, data
             store building to Artificial Intelligence integration, our products
-            offer a holistic approach to software development, covering all
-            bases.
+            offer a holistic approach to software product development, covering
+            all bases.
             <br />
             <strong>Global Ambitions</strong> While rooted in Canada, our
             products have global aspirations and designed to cater to diverse

@@ -116,8 +116,8 @@ const Showcase = () => {
             Bit emerged from the collective passion of a dynamic team determined
             to break barriers in the tech landscape. Our story is of resilience,
             creativity, and a relentless pursuit of excellence. We started with
-            a dream to make software development an experience that transcends
-            the ordinary.
+            a dream to make software product development an experience that
+            transcends the ordinary.
           </p>
         </div>
         <div className="showcaseSection">
