@@ -94,7 +94,7 @@ const Showcase = () => {
   }, []);
 
   return (
-    <Layout title="Company" description="ThousanEmpowering Tomorrow, Today!">
+    <Layout title="Partners" description="Collaborating for Success!">
       <Section background="dark">
         <div className="sectionContainer headerContainer">
           <h1>

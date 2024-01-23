@@ -25,7 +25,8 @@ const isDeployPreview = process.env.PREVIEW_DEPLOY === 'true';
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Bit',
-  tagline: 'Flower Application Engine - Redefining Software Development',
+  tagline:
+    'Flower Application Engine - Redefining Software Product Development',
   organizationName: 'bitwebsvc',
   projectName: 'bitwebsvc.github.io',
   url: 'https://www.bitwebsvc.net',

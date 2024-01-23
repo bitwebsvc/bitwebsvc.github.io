@@ -95,8 +95,8 @@ const Showcase = () => {
 
   return (
     <Layout
-      title="Showcase"
-      description="Thousands of apps are using React Native, check out these apps!">
+      title="Flower"
+      description="Redefining Software Product Development">
       <Section background="dark">
         <div className="sectionContainer headerContainer">
           <h1>
@@ -121,12 +121,13 @@ const Showcase = () => {
             <br />
             Flower is a powerful Application Engine designed to streamline and
             expedite various aspects of software product development. Covering
-            everything from data modeling and database creation to application
-            development and quality engineering, Flower is more than just a
-            platform—it represents a transformative force in the field. By
-            providing comprehensive tools and features, Flower aims to simplify
-            the entire software product development process, making it a
-            game-changer for developers seeking efficiency and innovation.
+            everything from product management, data modeling, data store or
+            database creation to application development and quality
+            engineering, Flower is more than just a platform—it represents a
+            transformative force in the field. By providing comprehensive tools
+            and features, Flower aims to simplify the entire software product
+            development process, making it a game-changer for users seeking
+            efficiency and innovation.
             <br />
             <br />
             <strong>Key Features</strong>
@@ -136,6 +137,13 @@ const Showcase = () => {
               <a href="#marketplace">Marketplace</a>
             </strong>{' '}
             - A community for application distribution
+            <br />
+            <strong>
+              <a href="#pm">Product Management</a>
+            </strong>{' '}
+            - End to end product management with strategic, collaboration,
+            roadmapping, idea management, requirements management and release
+            planning,
             <br />
             <strong>
               <a href="#datamodeler">Data Modeler</a>
@@ -194,6 +202,29 @@ const Showcase = () => {
             ground for developers, users, and businesses, fostering an
             environment that encourages innovation, collaboration, and seamless
             app discovery.
+            <br />
+          </p>
+        </div>
+      </Section>
+      <Section>
+        <div className="showcaseSection">
+          <a id="pm"></a>
+          <h2>Product Management</h2>
+          <p className="showcaseSectionDescription">
+            <br />
+            Product Management helps teams align product development with
+            overall business goals and strategies. Facilitates collaboration
+            among cross-functional teams, allowing product managers, developers,
+            marketers, and other stakeholders to work together seamlessly. This
+            helps in breaking down silos and ensuring everyone is on the same
+            page. The software assists in creating visual roadmaps that outline
+            the timeline and key milestones for product development. Provides a
+            centralized system for collecting and evaluating product ideas. It
+            helps in defining and managing product requirements. Assists in
+            planning and managing product releases. Teams can use the platform
+            to coordinate the timing and content of releases, ensuring that new
+            features and improvements are delivered in a coherent and efficient
+            manner.
             <br />
           </p>
         </div>

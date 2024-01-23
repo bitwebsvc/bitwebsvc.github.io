@@ -94,9 +94,7 @@ const Showcase = () => {
   }, []);
 
   return (
-    <Layout
-      title="Showcase"
-      description="Thousands of apps are using React Native, check out these apps!">
+    <Layout title="Products" description="Empowering Business Systems">
       <Section background="dark">
         <div className="sectionContainer headerContainer">
           <h1>
