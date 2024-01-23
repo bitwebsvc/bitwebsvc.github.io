@@ -146,19 +146,19 @@ const Showcase = () => {
             planning,
             <br />
             <strong>
-              <a href="#datamodeler">Data Modeler</a>
+              <a href="#datamodeler">Data Modeling</a>
             </strong>{' '}
             - Transform business reality through structure, relationships, and
             constraints of data in a system for effective model creation.
             <br />
             <strong>
-              <a href="#datastore">Data Store</a>
+              <a href="#datastore">Data Management</a>
             </strong>{' '}
             - Simplify and accelerate data store (database, NoSQL) creation for
             a solid foundation.
             <br />
             <strong>
-              <a href="#interface">Interface Designer</a>
+              <a href="#interface">Interface Design</a>
             </strong>{' '}
             - Develop application interfaces effortlessly with drag and drop
             functionality, pre-built components and with integration of bring
@@ -233,7 +233,7 @@ const Showcase = () => {
       <Section>
         <div className="showcaseSection">
           <a id="datamodeler"></a>
-          <h2>Data Modeler</h2>
+          <h2>Data Modeling</h2>
           <p className="showcaseSectionDescription">
             <br />
             In the contemporary landscape of information management, the role of
@@ -262,7 +262,7 @@ const Showcase = () => {
       <Section>
         <div className="showcaseSection">
           <a id="datastore"></a>
-          <h2>Data Store</h2>
+          <h2>Data Management</h2>
           <p className="showcaseSectionDescription">
             <br />
             In today's rapidly evolving technological landscape, the efficient
@@ -280,7 +280,7 @@ const Showcase = () => {
       <Section>
         <div className="showcaseSection">
           <a id="interface"></a>
-          <h2>Interface Designer</h2>
+          <h2>Interface Design</h2>
           <p className="showcaseSectionDescription">
             <br />
             Interface Designer is a powerful tool designed to streamline the
