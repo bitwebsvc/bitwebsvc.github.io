@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_website=self.webpackChunkreact_native_website||[]).push([[84830],{38925:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/videos","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

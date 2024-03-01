@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_website=self.webpackChunkreact_native_website||[]).push([[37438],{98055:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/release","page":1,"postsPerPage":10,"totalPages":2,"totalCount":17,"nextPage":"/blog/tags/release/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
